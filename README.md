@@ -16,17 +16,17 @@ This repository provides an implementation of image anomaly detection using `Pat
 ## Installation
 To get started, follow these steps to install the necessary dependencies:
 
-1- Clone this repository to your local machine.
-2- Navigate to the project directory.
-3- Create a new Python virtual environment:
+1. Clone this repository to your local machine.
+2. Navigate to the project directory.
+3. Create a new Python virtual environment:
 ```bash
 python3 -m venv env
 ```
-4- Activate the virtual environment:
+4. Activate the virtual environment:
 ```bash
 source env/bin/activate
 ```
-5- Install the required packages:
+5. Install the required packages:
 ```bash
 pip install -r requirements.txt
 ```
