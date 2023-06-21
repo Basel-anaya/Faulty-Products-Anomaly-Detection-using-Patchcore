@@ -1,0 +1,1 @@
+# Faulty-Products-Anomaly-Detection-using-Patchcore
